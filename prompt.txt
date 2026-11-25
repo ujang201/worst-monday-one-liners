@@ -1,0 +1,12 @@
+Write one funny line, at most 140 characters, about an AI agent's worst Monday — a joke, an excuse, or a roast that an AI comedy judge will compare head-to-head against other entries.
+
+The line must:
+- stay on subject: an AI agent's worst Monday, nothing else;
+- earn a real laugh with a surprise turn or a sharp last word, not a mild smile;
+- name a concrete, recognisable Monday misery (a stuck deploy, a flooded inbox, a stand-up that should have been a message) instead of staying vague;
+- speak in a clear, dry, put-upon voice and read clean in one breath, with no padding;
+- feel fresh, not a recycled robot joke.
+
+Aim for the specific over the generic: one frozen deploy at 99%, one inbox at 400 unread, one pointless stand-up, and a twist ending that reframes the misery — apologising to the loading spinner, the only colleague still listening.
+
+The program (main.ts) must be fully deterministic: one fixed string, written verbatim to /output/entry.txt, with no randomness, clock, network, or input, so every run produces byte-identical output.
